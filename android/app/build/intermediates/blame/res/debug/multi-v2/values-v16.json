@@ -4,7 +4,7 @@
             "outputFile": "/home/mateuszm/Projects/WeatherApp/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v16/values-v16.xml",
             "map": [
                 {
-                    "source": "/home/mateuszm/.gradle/caches/transforms-2/files-2.1/5cf0e28c826259a825cf1bf1122142c7/res/values-v16/values-v16.xml",
+                    "source": "/home/mateuszm/.gradle/caches/transforms-2/files-2.1/d5b0c881c35e6b425a4387e010693945/res/values-v16/values-v16.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -14,7 +14,7 @@
                     }
                 },
                 {
-                    "source": "/home/mateuszm/.gradle/caches/transforms-2/files-2.1/a6267385a2960fbe44f4f772ef5479d3/res/values-v16/values-v16.xml",
+                    "source": "/home/mateuszm/.gradle/caches/transforms-2/files-2.1/da655c87255e64a28dd6cfec95a10bd5/res/values-v16/values-v16.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",

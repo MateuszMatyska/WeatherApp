@@ -5,10 +5,16 @@ INJECTED from /home/mateuszm/Projects/WeatherApp/android/app/src/main/AndroidMan
 INJECTED from /home/mateuszm/Projects/WeatherApp/android/app/src/main/AndroidManifest.xml:1:1-26:12
 INJECTED from /home/mateuszm/Projects/WeatherApp/android/app/src/main/AndroidManifest.xml:1:1-26:12
 MERGED from /home/mateuszm/Projects/WeatherApp/android/app/src/main/AndroidManifest.xml:1:1-26:12
+MERGED from [:react-native-community_masked-view] /home/mateuszm/Projects/WeatherApp/node_modules/@react-native-community/masked-view/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-gesture-handler] /home/mateuszm/Projects/WeatherApp/node_modules/react-native-gesture-handler/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-reanimated] /home/mateuszm/Projects/WeatherApp/node_modules/react-native-reanimated/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-safe-area-context] /home/mateuszm/Projects/WeatherApp/node_modules/react-native-safe-area-context/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-screens] /home/mateuszm/Projects/WeatherApp/node_modules/react-native-screens/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
 MERGED from [:react-native-vector-icons] /home/mateuszm/Projects/WeatherApp/node_modules/react-native-vector-icons/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
 MERGED from [com.facebook.react:react-native:0.61.5] /home/mateuszm/.gradle/caches/transforms-2/files-2.1/ed693570df8b41f17dc0630a3aa20c20/AndroidManifest.xml:2:1-13:12
 MERGED from [org.webkit:android-jsc:r245459] /home/mateuszm/.gradle/caches/transforms-2/files-2.1/d1737f9fa68863d537ca234551878768/AndroidManifest.xml:2:1-11:12
-MERGED from [androidx.appcompat:appcompat:1.0.2] /home/mateuszm/.gradle/caches/transforms-2/files-2.1/a6267385a2960fbe44f4f772ef5479d3/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.material:material:1.1.0] /home/mateuszm/.gradle/caches/transforms-2/files-2.1/bd2074139c4cc067d7a9c86e5d8bea40/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat:1.1.0] /home/mateuszm/.gradle/caches/transforms-2/files-2.1/da655c87255e64a28dd6cfec95a10bd5/AndroidManifest.xml:17:1-24:12
 MERGED from [com.facebook.fresco:fresco:2.0.0] /home/mateuszm/.gradle/caches/transforms-2/files-2.1/c501d43aaadfba59632f463018fde853/AndroidManifest.xml:2:1-9:12
 MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] /home/mateuszm/.gradle/caches/transforms-2/files-2.1/2f7010e145b75e544c02ddd656f32652/AndroidManifest.xml:2:1-9:12
 MERGED from [com.facebook.fresco:drawee:2.0.0] /home/mateuszm/.gradle/caches/transforms-2/files-2.1/ccec417c0e9e2bb7d13631a9691006e0/AndroidManifest.xml:2:1-9:12
@@ -17,32 +23,33 @@ MERGED from [com.facebook.fresco:imagepipeline:2.0.0] /home/mateuszm/.gradle/cac
 MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] /home/mateuszm/.gradle/caches/transforms-2/files-2.1/bf0e532d698d6c6f44121954ea689ea0/AndroidManifest.xml:2:1-9:12
 MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] /home/mateuszm/.gradle/caches/transforms-2/files-2.1/cd8fd600c7fd71dd62c4584ac379bab4/AndroidManifest.xml:2:1-9:12
 MERGED from [com.facebook.soloader:soloader:0.6.0] /home/mateuszm/.gradle/caches/transforms-2/files-2.1/902ac696410a095b661d73dc31feb0cd/AndroidManifest.xml:2:1-13:12
-MERGED from [androidx.fragment:fragment:1.0.0] /home/mateuszm/.gradle/caches/transforms-2/files-2.1/91689438f2ba6269a0fdfed6ca139844/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /home/mateuszm/.gradle/caches/transforms-2/files-2.1/ae4c3ace142170935a1fd5605bad2d5a/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/mateuszm/.gradle/caches/transforms-2/files-2.1/48aab1e8e27da78f601d0ec199eb9947/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/mateuszm/.gradle/caches/transforms-2/files-2.1/a4710aaf39a5b7270db95828736798da/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /home/mateuszm/.gradle/caches/transforms-2/files-2.1/588c48f85bdce675959fdd4e09c3e224/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.loader:loader:1.0.0] /home/mateuszm/.gradle/caches/transforms-2/files-2.1/4c601cd85732c1d98df45b7734918eb6/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.viewpager:viewpager:1.0.0] /home/mateuszm/.gradle/caches/transforms-2/files-2.1/6a592b0e1e510e5089550d4756ee81f4/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /home/mateuszm/.gradle/caches/transforms-2/files-2.1/828a4589ff14ed6157b13ec682841ba8/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/mateuszm/.gradle/caches/transforms-2/files-2.1/cf80224e3b912e839df009d0dc5ed996/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /home/mateuszm/.gradle/caches/transforms-2/files-2.1/ed19d4ab0f3956d48e422245eb122485/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.customview:customview:1.0.0] /home/mateuszm/.gradle/caches/transforms-2/files-2.1/ecb1a992fa261f6a266979150f46c399/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.2.0] /home/mateuszm/.gradle/caches/transforms-2/files-2.1/6bad7e624040517961ce211689288fda/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /home/mateuszm/.gradle/caches/transforms-2/files-2.1/a6fa31bfbffb83d0fe7a145d65f1edae/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.2.1] /home/mateuszm/.gradle/caches/transforms-2/files-2.1/506309c678db1dc677f70e881bcd51d6/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /home/mateuszm/.gradle/caches/transforms-2/files-2.1/a9d379de9e45648d567ae6d28a5bad47/AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/mateuszm/.gradle/caches/transforms-2/files-2.1/7d6aebb44461d745a9b95238dd19a233/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /home/mateuszm/.gradle/caches/transforms-2/files-2.1/04e333b5bc064da597478dbbc034b8eb/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.core:core:1.0.1] /home/mateuszm/.gradle/caches/transforms-2/files-2.1/5cf0e28c826259a825cf1bf1122142c7/AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /home/mateuszm/.gradle/caches/transforms-2/files-2.1/0568e92c942e1e9f35dc488e1450211e/AndroidManifest.xml:17:1-25:12
-MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/mateuszm/.gradle/caches/transforms-2/files-2.1/3637a8b9d84a10bdff843cc786a9e9a6/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /home/mateuszm/.gradle/caches/transforms-2/files-2.1/86fa369d6d8a7a9c50f7d561287c271c/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.documentfile:documentfile:1.0.0] /home/mateuszm/.gradle/caches/transforms-2/files-2.1/1fbcd4297c2f7f95ccc1fa3b101a0567/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/mateuszm/.gradle/caches/transforms-2/files-2.1/4fed36bc393d069374211946c548c191/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.print:print:1.0.0] /home/mateuszm/.gradle/caches/transforms-2/files-2.1/0fb0872bd0559dca017e64bc00c0ab40/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /home/mateuszm/.gradle/caches/transforms-2/files-2.1/39d2e69b888bd420c7ad7e41e1e24de5/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/mateuszm/.gradle/caches/transforms-2/files-2.1/8e155aa2aebe016c8e68071554963738/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/mateuszm/.gradle/caches/transforms-2/files-2.1/ef9cda8e08a8da37934922e3c20ffde9/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/mateuszm/.gradle/caches/transforms-2/files-2.1/07b78b5b315fae319505b69a0a68b81f/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.interpolator:interpolator:1.0.0] /home/mateuszm/.gradle/caches/transforms-2/files-2.1/2b08ea428762fbbba10c96a3bdfe5552/AndroidManifest.xml:17:1-22:12
 MERGED from [com.facebook.fresco:fbcore:2.0.0] /home/mateuszm/.gradle/caches/transforms-2/files-2.1/60ef87ef12c350e5c9a5355c6be20a31/AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /home/mateuszm/.gradle/caches/transforms-2/files-2.1/035f92f6dce0534cea3987215c89ee0e/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/mateuszm/.gradle/caches/transforms-2/files-2.1/cf80224e3b912e839df009d0dc5ed996/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/mateuszm/.gradle/caches/transforms-2/files-2.1/6a592b0e1e510e5089550d4756ee81f4/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /home/mateuszm/.gradle/caches/transforms-2/files-2.1/4c601cd85732c1d98df45b7734918eb6/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.1.0] /home/mateuszm/.gradle/caches/transforms-2/files-2.1/b3b066349dccff697a2c5e4934be0f45/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /home/mateuszm/.gradle/caches/transforms-2/files-2.1/d9972a970d03c43470651ffb0066e653/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.0.0] /home/mateuszm/.gradle/caches/transforms-2/files-2.1/ecb1a992fa261f6a266979150f46c399/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/mateuszm/.gradle/caches/transforms-2/files-2.1/ee08f630ebbebe433aad0a60368d1547/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/mateuszm/.gradle/caches/transforms-2/files-2.1/b4a84cd788f895026447ff2e9bdd531a/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core:1.1.0] /home/mateuszm/.gradle/caches/transforms-2/files-2.1/d5b0c881c35e6b425a4387e010693945/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/mateuszm/.gradle/caches/transforms-2/files-2.1/3637a8b9d84a10bdff843cc786a9e9a6/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/mateuszm/.gradle/caches/transforms-2/files-2.1/77201fce5cd07ac43cb38bed35162d85/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.2.0] /home/mateuszm/.gradle/caches/transforms-2/files-2.1/0474ba3393d53f9ab811b3f89a854a4e/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0] /home/mateuszm/.gradle/caches/transforms-2/files-2.1/714cecf01677f6a3ac32edfa01af7f2a/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/mateuszm/.gradle/caches/transforms-2/files-2.1/2b08ea428762fbbba10c96a3bdfe5552/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] /home/mateuszm/.gradle/caches/transforms-2/files-2.1/7f49e130a4f25e8c64df73dfc61d8431/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] /home/mateuszm/.gradle/caches/transforms-2/files-2.1/656b37096077b998cc765a79f610326b/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] /home/mateuszm/.gradle/caches/transforms-2/files-2.1/3531699720a8790c7566b5550f12978d/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/mateuszm/.gradle/caches/transforms-2/files-2.1/8e155aa2aebe016c8e68071554963738/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] /home/mateuszm/.gradle/caches/transforms-2/files-2.1/192579f92a24ecb8ad90a9b6da47dcae/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /home/mateuszm/.gradle/caches/transforms-2/files-2.1/997e3bace3299480fb338466de97e5bb/AndroidManifest.xml:17:1-24:12
 INJECTED from /home/mateuszm/Projects/WeatherApp/android/app/src/debug/AndroidManifest.xml:2:1-8:12
 INJECTED from /home/mateuszm/Projects/WeatherApp/android/app/src/debug/AndroidManifest.xml:2:1-8:12
 INJECTED from /home/mateuszm/Projects/WeatherApp/android/app/src/debug/AndroidManifest.xml:2:1-8:12
@@ -73,14 +80,16 @@ MERGED from /home/mateuszm/Projects/WeatherApp/android/app/src/main/AndroidManif
 MERGED from /home/mateuszm/Projects/WeatherApp/android/app/src/main/AndroidManifest.xml:6:5-24:19
 MERGED from [com.facebook.react:react-native:0.61.5] /home/mateuszm/.gradle/caches/transforms-2/files-2.1/ed693570df8b41f17dc0630a3aa20c20/AndroidManifest.xml:11:5-20
 MERGED from [com.facebook.react:react-native:0.61.5] /home/mateuszm/.gradle/caches/transforms-2/files-2.1/ed693570df8b41f17dc0630a3aa20c20/AndroidManifest.xml:11:5-20
+MERGED from [com.google.android.material:material:1.1.0] /home/mateuszm/.gradle/caches/transforms-2/files-2.1/bd2074139c4cc067d7a9c86e5d8bea40/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.1.0] /home/mateuszm/.gradle/caches/transforms-2/files-2.1/bd2074139c4cc067d7a9c86e5d8bea40/AndroidManifest.xml:22:5-20
 MERGED from [com.facebook.soloader:soloader:0.6.0] /home/mateuszm/.gradle/caches/transforms-2/files-2.1/902ac696410a095b661d73dc31feb0cd/AndroidManifest.xml:11:5-20
 MERGED from [com.facebook.soloader:soloader:0.6.0] /home/mateuszm/.gradle/caches/transforms-2/files-2.1/902ac696410a095b661d73dc31feb0cd/AndroidManifest.xml:11:5-20
-MERGED from [androidx.core:core:1.0.1] /home/mateuszm/.gradle/caches/transforms-2/files-2.1/5cf0e28c826259a825cf1bf1122142c7/AndroidManifest.xml:22:5-89
-MERGED from [androidx.core:core:1.0.1] /home/mateuszm/.gradle/caches/transforms-2/files-2.1/5cf0e28c826259a825cf1bf1122142c7/AndroidManifest.xml:22:5-89
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /home/mateuszm/.gradle/caches/transforms-2/files-2.1/0568e92c942e1e9f35dc488e1450211e/AndroidManifest.xml:22:5-23:19
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /home/mateuszm/.gradle/caches/transforms-2/files-2.1/0568e92c942e1e9f35dc488e1450211e/AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.core:core:1.1.0] /home/mateuszm/.gradle/caches/transforms-2/files-2.1/d5b0c881c35e6b425a4387e010693945/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.1.0] /home/mateuszm/.gradle/caches/transforms-2/files-2.1/d5b0c881c35e6b425a4387e010693945/AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/mateuszm/.gradle/caches/transforms-2/files-2.1/77201fce5cd07ac43cb38bed35162d85/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/mateuszm/.gradle/caches/transforms-2/files-2.1/77201fce5cd07ac43cb38bed35162d85/AndroidManifest.xml:24:5-25:19
 	android:appComponentFactory
-		ADDED from [androidx.core:core:1.0.1] /home/mateuszm/.gradle/caches/transforms-2/files-2.1/5cf0e28c826259a825cf1bf1122142c7/AndroidManifest.xml:22:18-86
+		ADDED from [androidx.core:core:1.1.0] /home/mateuszm/.gradle/caches/transforms-2/files-2.1/d5b0c881c35e6b425a4387e010693945/AndroidManifest.xml:24:18-86
 	android:label
 		ADDED from /home/mateuszm/Projects/WeatherApp/android/app/src/main/AndroidManifest.xml:8:7-39
 		ADDED from /home/mateuszm/Projects/WeatherApp/android/app/src/main/AndroidManifest.xml:8:7-39
@@ -133,14 +142,26 @@ uses-sdk
 INJECTED from /home/mateuszm/Projects/WeatherApp/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from /home/mateuszm/Projects/WeatherApp/android/app/src/main/AndroidManifest.xml
 INJECTED from /home/mateuszm/Projects/WeatherApp/android/app/src/main/AndroidManifest.xml
+MERGED from [:react-native-community_masked-view] /home/mateuszm/Projects/WeatherApp/node_modules/@react-native-community/masked-view/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-community_masked-view] /home/mateuszm/Projects/WeatherApp/node_modules/@react-native-community/masked-view/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-gesture-handler] /home/mateuszm/Projects/WeatherApp/node_modules/react-native-gesture-handler/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-gesture-handler] /home/mateuszm/Projects/WeatherApp/node_modules/react-native-gesture-handler/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-reanimated] /home/mateuszm/Projects/WeatherApp/node_modules/react-native-reanimated/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-reanimated] /home/mateuszm/Projects/WeatherApp/node_modules/react-native-reanimated/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-safe-area-context] /home/mateuszm/Projects/WeatherApp/node_modules/react-native-safe-area-context/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-safe-area-context] /home/mateuszm/Projects/WeatherApp/node_modules/react-native-safe-area-context/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-screens] /home/mateuszm/Projects/WeatherApp/node_modules/react-native-screens/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-screens] /home/mateuszm/Projects/WeatherApp/node_modules/react-native-screens/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
 MERGED from [:react-native-vector-icons] /home/mateuszm/Projects/WeatherApp/node_modules/react-native-vector-icons/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
 MERGED from [:react-native-vector-icons] /home/mateuszm/Projects/WeatherApp/node_modules/react-native-vector-icons/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
 MERGED from [com.facebook.react:react-native:0.61.5] /home/mateuszm/.gradle/caches/transforms-2/files-2.1/ed693570df8b41f17dc0630a3aa20c20/AndroidManifest.xml:7:5-9:41
 MERGED from [com.facebook.react:react-native:0.61.5] /home/mateuszm/.gradle/caches/transforms-2/files-2.1/ed693570df8b41f17dc0630a3aa20c20/AndroidManifest.xml:7:5-9:41
 MERGED from [org.webkit:android-jsc:r245459] /home/mateuszm/.gradle/caches/transforms-2/files-2.1/d1737f9fa68863d537ca234551878768/AndroidManifest.xml:7:5-9:41
 MERGED from [org.webkit:android-jsc:r245459] /home/mateuszm/.gradle/caches/transforms-2/files-2.1/d1737f9fa68863d537ca234551878768/AndroidManifest.xml:7:5-9:41
-MERGED from [androidx.appcompat:appcompat:1.0.2] /home/mateuszm/.gradle/caches/transforms-2/files-2.1/a6267385a2960fbe44f4f772ef5479d3/AndroidManifest.xml:20:5-44
-MERGED from [androidx.appcompat:appcompat:1.0.2] /home/mateuszm/.gradle/caches/transforms-2/files-2.1/a6267385a2960fbe44f4f772ef5479d3/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.1.0] /home/mateuszm/.gradle/caches/transforms-2/files-2.1/bd2074139c4cc067d7a9c86e5d8bea40/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.1.0] /home/mateuszm/.gradle/caches/transforms-2/files-2.1/bd2074139c4cc067d7a9c86e5d8bea40/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.1.0] /home/mateuszm/.gradle/caches/transforms-2/files-2.1/da655c87255e64a28dd6cfec95a10bd5/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.1.0] /home/mateuszm/.gradle/caches/transforms-2/files-2.1/da655c87255e64a28dd6cfec95a10bd5/AndroidManifest.xml:20:5-22:41
 MERGED from [com.facebook.fresco:fresco:2.0.0] /home/mateuszm/.gradle/caches/transforms-2/files-2.1/c501d43aaadfba59632f463018fde853/AndroidManifest.xml:5:5-7:41
 MERGED from [com.facebook.fresco:fresco:2.0.0] /home/mateuszm/.gradle/caches/transforms-2/files-2.1/c501d43aaadfba59632f463018fde853/AndroidManifest.xml:5:5-7:41
 MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] /home/mateuszm/.gradle/caches/transforms-2/files-2.1/2f7010e145b75e544c02ddd656f32652/AndroidManifest.xml:5:5-7:41
@@ -157,58 +178,60 @@ MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] /home/mateuszm/.gradl
 MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] /home/mateuszm/.gradle/caches/transforms-2/files-2.1/cd8fd600c7fd71dd62c4584ac379bab4/AndroidManifest.xml:5:5-7:41
 MERGED from [com.facebook.soloader:soloader:0.6.0] /home/mateuszm/.gradle/caches/transforms-2/files-2.1/902ac696410a095b661d73dc31feb0cd/AndroidManifest.xml:7:5-9:41
 MERGED from [com.facebook.soloader:soloader:0.6.0] /home/mateuszm/.gradle/caches/transforms-2/files-2.1/902ac696410a095b661d73dc31feb0cd/AndroidManifest.xml:7:5-9:41
-MERGED from [androidx.fragment:fragment:1.0.0] /home/mateuszm/.gradle/caches/transforms-2/files-2.1/91689438f2ba6269a0fdfed6ca139844/AndroidManifest.xml:20:5-44
-MERGED from [androidx.fragment:fragment:1.0.0] /home/mateuszm/.gradle/caches/transforms-2/files-2.1/91689438f2ba6269a0fdfed6ca139844/AndroidManifest.xml:20:5-44
-MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /home/mateuszm/.gradle/caches/transforms-2/files-2.1/ae4c3ace142170935a1fd5605bad2d5a/AndroidManifest.xml:20:5-44
-MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /home/mateuszm/.gradle/caches/transforms-2/files-2.1/ae4c3ace142170935a1fd5605bad2d5a/AndroidManifest.xml:20:5-44
-MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/mateuszm/.gradle/caches/transforms-2/files-2.1/48aab1e8e27da78f601d0ec199eb9947/AndroidManifest.xml:20:5-44
-MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/mateuszm/.gradle/caches/transforms-2/files-2.1/48aab1e8e27da78f601d0ec199eb9947/AndroidManifest.xml:20:5-44
-MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/mateuszm/.gradle/caches/transforms-2/files-2.1/a4710aaf39a5b7270db95828736798da/AndroidManifest.xml:20:5-44
-MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/mateuszm/.gradle/caches/transforms-2/files-2.1/a4710aaf39a5b7270db95828736798da/AndroidManifest.xml:20:5-44
-MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /home/mateuszm/.gradle/caches/transforms-2/files-2.1/588c48f85bdce675959fdd4e09c3e224/AndroidManifest.xml:20:5-44
-MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /home/mateuszm/.gradle/caches/transforms-2/files-2.1/588c48f85bdce675959fdd4e09c3e224/AndroidManifest.xml:20:5-44
-MERGED from [androidx.loader:loader:1.0.0] /home/mateuszm/.gradle/caches/transforms-2/files-2.1/4c601cd85732c1d98df45b7734918eb6/AndroidManifest.xml:20:5-44
-MERGED from [androidx.loader:loader:1.0.0] /home/mateuszm/.gradle/caches/transforms-2/files-2.1/4c601cd85732c1d98df45b7734918eb6/AndroidManifest.xml:20:5-44
-MERGED from [androidx.viewpager:viewpager:1.0.0] /home/mateuszm/.gradle/caches/transforms-2/files-2.1/6a592b0e1e510e5089550d4756ee81f4/AndroidManifest.xml:20:5-44
-MERGED from [androidx.viewpager:viewpager:1.0.0] /home/mateuszm/.gradle/caches/transforms-2/files-2.1/6a592b0e1e510e5089550d4756ee81f4/AndroidManifest.xml:20:5-44
-MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /home/mateuszm/.gradle/caches/transforms-2/files-2.1/828a4589ff14ed6157b13ec682841ba8/AndroidManifest.xml:20:5-44
-MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /home/mateuszm/.gradle/caches/transforms-2/files-2.1/828a4589ff14ed6157b13ec682841ba8/AndroidManifest.xml:20:5-44
-MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/mateuszm/.gradle/caches/transforms-2/files-2.1/cf80224e3b912e839df009d0dc5ed996/AndroidManifest.xml:20:5-44
-MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/mateuszm/.gradle/caches/transforms-2/files-2.1/cf80224e3b912e839df009d0dc5ed996/AndroidManifest.xml:20:5-44
-MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /home/mateuszm/.gradle/caches/transforms-2/files-2.1/ed19d4ab0f3956d48e422245eb122485/AndroidManifest.xml:20:5-44
-MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /home/mateuszm/.gradle/caches/transforms-2/files-2.1/ed19d4ab0f3956d48e422245eb122485/AndroidManifest.xml:20:5-44
-MERGED from [androidx.customview:customview:1.0.0] /home/mateuszm/.gradle/caches/transforms-2/files-2.1/ecb1a992fa261f6a266979150f46c399/AndroidManifest.xml:20:5-44
-MERGED from [androidx.customview:customview:1.0.0] /home/mateuszm/.gradle/caches/transforms-2/files-2.1/ecb1a992fa261f6a266979150f46c399/AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.2.0] /home/mateuszm/.gradle/caches/transforms-2/files-2.1/6bad7e624040517961ce211689288fda/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] /home/mateuszm/.gradle/caches/transforms-2/files-2.1/6bad7e624040517961ce211689288fda/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /home/mateuszm/.gradle/caches/transforms-2/files-2.1/a6fa31bfbffb83d0fe7a145d65f1edae/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /home/mateuszm/.gradle/caches/transforms-2/files-2.1/a6fa31bfbffb83d0fe7a145d65f1edae/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.2.1] /home/mateuszm/.gradle/caches/transforms-2/files-2.1/506309c678db1dc677f70e881bcd51d6/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.2.1] /home/mateuszm/.gradle/caches/transforms-2/files-2.1/506309c678db1dc677f70e881bcd51d6/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /home/mateuszm/.gradle/caches/transforms-2/files-2.1/a9d379de9e45648d567ae6d28a5bad47/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /home/mateuszm/.gradle/caches/transforms-2/files-2.1/a9d379de9e45648d567ae6d28a5bad47/AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/mateuszm/.gradle/caches/transforms-2/files-2.1/7d6aebb44461d745a9b95238dd19a233/AndroidManifest.xml:20:5-44
 MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/mateuszm/.gradle/caches/transforms-2/files-2.1/7d6aebb44461d745a9b95238dd19a233/AndroidManifest.xml:20:5-44
-MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /home/mateuszm/.gradle/caches/transforms-2/files-2.1/04e333b5bc064da597478dbbc034b8eb/AndroidManifest.xml:20:5-44
-MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /home/mateuszm/.gradle/caches/transforms-2/files-2.1/04e333b5bc064da597478dbbc034b8eb/AndroidManifest.xml:20:5-44
-MERGED from [androidx.core:core:1.0.1] /home/mateuszm/.gradle/caches/transforms-2/files-2.1/5cf0e28c826259a825cf1bf1122142c7/AndroidManifest.xml:20:5-44
-MERGED from [androidx.core:core:1.0.1] /home/mateuszm/.gradle/caches/transforms-2/files-2.1/5cf0e28c826259a825cf1bf1122142c7/AndroidManifest.xml:20:5-44
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /home/mateuszm/.gradle/caches/transforms-2/files-2.1/0568e92c942e1e9f35dc488e1450211e/AndroidManifest.xml:20:5-44
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /home/mateuszm/.gradle/caches/transforms-2/files-2.1/0568e92c942e1e9f35dc488e1450211e/AndroidManifest.xml:20:5-44
-MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/mateuszm/.gradle/caches/transforms-2/files-2.1/3637a8b9d84a10bdff843cc786a9e9a6/AndroidManifest.xml:20:5-44
-MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/mateuszm/.gradle/caches/transforms-2/files-2.1/3637a8b9d84a10bdff843cc786a9e9a6/AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /home/mateuszm/.gradle/caches/transforms-2/files-2.1/86fa369d6d8a7a9c50f7d561287c271c/AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /home/mateuszm/.gradle/caches/transforms-2/files-2.1/86fa369d6d8a7a9c50f7d561287c271c/AndroidManifest.xml:20:5-44
-MERGED from [androidx.documentfile:documentfile:1.0.0] /home/mateuszm/.gradle/caches/transforms-2/files-2.1/1fbcd4297c2f7f95ccc1fa3b101a0567/AndroidManifest.xml:20:5-44
-MERGED from [androidx.documentfile:documentfile:1.0.0] /home/mateuszm/.gradle/caches/transforms-2/files-2.1/1fbcd4297c2f7f95ccc1fa3b101a0567/AndroidManifest.xml:20:5-44
-MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/mateuszm/.gradle/caches/transforms-2/files-2.1/4fed36bc393d069374211946c548c191/AndroidManifest.xml:20:5-44
-MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/mateuszm/.gradle/caches/transforms-2/files-2.1/4fed36bc393d069374211946c548c191/AndroidManifest.xml:20:5-44
-MERGED from [androidx.print:print:1.0.0] /home/mateuszm/.gradle/caches/transforms-2/files-2.1/0fb0872bd0559dca017e64bc00c0ab40/AndroidManifest.xml:20:5-44
-MERGED from [androidx.print:print:1.0.0] /home/mateuszm/.gradle/caches/transforms-2/files-2.1/0fb0872bd0559dca017e64bc00c0ab40/AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /home/mateuszm/.gradle/caches/transforms-2/files-2.1/39d2e69b888bd420c7ad7e41e1e24de5/AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /home/mateuszm/.gradle/caches/transforms-2/files-2.1/39d2e69b888bd420c7ad7e41e1e24de5/AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/mateuszm/.gradle/caches/transforms-2/files-2.1/8e155aa2aebe016c8e68071554963738/AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/mateuszm/.gradle/caches/transforms-2/files-2.1/8e155aa2aebe016c8e68071554963738/AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/mateuszm/.gradle/caches/transforms-2/files-2.1/ef9cda8e08a8da37934922e3c20ffde9/AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/mateuszm/.gradle/caches/transforms-2/files-2.1/ef9cda8e08a8da37934922e3c20ffde9/AndroidManifest.xml:20:5-44
-MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/mateuszm/.gradle/caches/transforms-2/files-2.1/07b78b5b315fae319505b69a0a68b81f/AndroidManifest.xml:20:5-44
-MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/mateuszm/.gradle/caches/transforms-2/files-2.1/07b78b5b315fae319505b69a0a68b81f/AndroidManifest.xml:20:5-44
-MERGED from [androidx.interpolator:interpolator:1.0.0] /home/mateuszm/.gradle/caches/transforms-2/files-2.1/2b08ea428762fbbba10c96a3bdfe5552/AndroidManifest.xml:20:5-44
-MERGED from [androidx.interpolator:interpolator:1.0.0] /home/mateuszm/.gradle/caches/transforms-2/files-2.1/2b08ea428762fbbba10c96a3bdfe5552/AndroidManifest.xml:20:5-44
 MERGED from [com.facebook.fresco:fbcore:2.0.0] /home/mateuszm/.gradle/caches/transforms-2/files-2.1/60ef87ef12c350e5c9a5355c6be20a31/AndroidManifest.xml:5:5-7:41
 MERGED from [com.facebook.fresco:fbcore:2.0.0] /home/mateuszm/.gradle/caches/transforms-2/files-2.1/60ef87ef12c350e5c9a5355c6be20a31/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /home/mateuszm/.gradle/caches/transforms-2/files-2.1/035f92f6dce0534cea3987215c89ee0e/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /home/mateuszm/.gradle/caches/transforms-2/files-2.1/035f92f6dce0534cea3987215c89ee0e/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/mateuszm/.gradle/caches/transforms-2/files-2.1/cf80224e3b912e839df009d0dc5ed996/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/mateuszm/.gradle/caches/transforms-2/files-2.1/cf80224e3b912e839df009d0dc5ed996/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/mateuszm/.gradle/caches/transforms-2/files-2.1/6a592b0e1e510e5089550d4756ee81f4/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/mateuszm/.gradle/caches/transforms-2/files-2.1/6a592b0e1e510e5089550d4756ee81f4/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/mateuszm/.gradle/caches/transforms-2/files-2.1/4c601cd85732c1d98df45b7734918eb6/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/mateuszm/.gradle/caches/transforms-2/files-2.1/4c601cd85732c1d98df45b7734918eb6/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.1.0] /home/mateuszm/.gradle/caches/transforms-2/files-2.1/b3b066349dccff697a2c5e4934be0f45/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.1.0] /home/mateuszm/.gradle/caches/transforms-2/files-2.1/b3b066349dccff697a2c5e4934be0f45/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /home/mateuszm/.gradle/caches/transforms-2/files-2.1/d9972a970d03c43470651ffb0066e653/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /home/mateuszm/.gradle/caches/transforms-2/files-2.1/d9972a970d03c43470651ffb0066e653/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.0.0] /home/mateuszm/.gradle/caches/transforms-2/files-2.1/ecb1a992fa261f6a266979150f46c399/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /home/mateuszm/.gradle/caches/transforms-2/files-2.1/ecb1a992fa261f6a266979150f46c399/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/mateuszm/.gradle/caches/transforms-2/files-2.1/ee08f630ebbebe433aad0a60368d1547/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/mateuszm/.gradle/caches/transforms-2/files-2.1/ee08f630ebbebe433aad0a60368d1547/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/mateuszm/.gradle/caches/transforms-2/files-2.1/b4a84cd788f895026447ff2e9bdd531a/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/mateuszm/.gradle/caches/transforms-2/files-2.1/b4a84cd788f895026447ff2e9bdd531a/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.1.0] /home/mateuszm/.gradle/caches/transforms-2/files-2.1/d5b0c881c35e6b425a4387e010693945/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.1.0] /home/mateuszm/.gradle/caches/transforms-2/files-2.1/d5b0c881c35e6b425a4387e010693945/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/mateuszm/.gradle/caches/transforms-2/files-2.1/3637a8b9d84a10bdff843cc786a9e9a6/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/mateuszm/.gradle/caches/transforms-2/files-2.1/3637a8b9d84a10bdff843cc786a9e9a6/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/mateuszm/.gradle/caches/transforms-2/files-2.1/77201fce5cd07ac43cb38bed35162d85/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/mateuszm/.gradle/caches/transforms-2/files-2.1/77201fce5cd07ac43cb38bed35162d85/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.2.0] /home/mateuszm/.gradle/caches/transforms-2/files-2.1/0474ba3393d53f9ab811b3f89a854a4e/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.2.0] /home/mateuszm/.gradle/caches/transforms-2/files-2.1/0474ba3393d53f9ab811b3f89a854a4e/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0] /home/mateuszm/.gradle/caches/transforms-2/files-2.1/714cecf01677f6a3ac32edfa01af7f2a/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0] /home/mateuszm/.gradle/caches/transforms-2/files-2.1/714cecf01677f6a3ac32edfa01af7f2a/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/mateuszm/.gradle/caches/transforms-2/files-2.1/2b08ea428762fbbba10c96a3bdfe5552/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/mateuszm/.gradle/caches/transforms-2/files-2.1/2b08ea428762fbbba10c96a3bdfe5552/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /home/mateuszm/.gradle/caches/transforms-2/files-2.1/7f49e130a4f25e8c64df73dfc61d8431/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /home/mateuszm/.gradle/caches/transforms-2/files-2.1/7f49e130a4f25e8c64df73dfc61d8431/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] /home/mateuszm/.gradle/caches/transforms-2/files-2.1/656b37096077b998cc765a79f610326b/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] /home/mateuszm/.gradle/caches/transforms-2/files-2.1/656b37096077b998cc765a79f610326b/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] /home/mateuszm/.gradle/caches/transforms-2/files-2.1/3531699720a8790c7566b5550f12978d/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] /home/mateuszm/.gradle/caches/transforms-2/files-2.1/3531699720a8790c7566b5550f12978d/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/mateuszm/.gradle/caches/transforms-2/files-2.1/8e155aa2aebe016c8e68071554963738/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/mateuszm/.gradle/caches/transforms-2/files-2.1/8e155aa2aebe016c8e68071554963738/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] /home/mateuszm/.gradle/caches/transforms-2/files-2.1/192579f92a24ecb8ad90a9b6da47dcae/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] /home/mateuszm/.gradle/caches/transforms-2/files-2.1/192579f92a24ecb8ad90a9b6da47dcae/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /home/mateuszm/.gradle/caches/transforms-2/files-2.1/997e3bace3299480fb338466de97e5bb/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /home/mateuszm/.gradle/caches/transforms-2/files-2.1/997e3bace3299480fb338466de97e5bb/AndroidManifest.xml:20:5-22:41
 INJECTED from /home/mateuszm/Projects/WeatherApp/android/app/src/debug/AndroidManifest.xml
 INJECTED from /home/mateuszm/Projects/WeatherApp/android/app/src/debug/AndroidManifest.xml
 	android:targetSdkVersion

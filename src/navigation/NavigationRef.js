@@ -1,4 +1,5 @@
 import React from 'react';
+import { DrawerActions } from '@react-navigation/native';
 
 export const navigationRef = React.createRef();
 
@@ -11,9 +12,13 @@ export const goBack = () => {
 };
 
 export const openDrawer = () => {
-  navigationRef.current?.openDrawer();
+  navigationRef.current?.dispatch(DrawerActions.openDrawer());
 }
 
 export const toggleDrawer = () => {
-  navigationRef.current?.toggleDrawer();
+  navigationRef.current?.dispatch(DrawerActions.toggleDrawer());
+}
+
+export const closeDrawer = () => {
+  navigationRef.current?.dispatch(DrawerActions.closeDrawer());
 }

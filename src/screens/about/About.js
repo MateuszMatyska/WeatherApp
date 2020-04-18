@@ -6,6 +6,7 @@ import {openDrawer} from 'src/navigation/NavigationRef';
 const About = (props) => {
     return <SafeAreaView>
         <View>
+            <Button onPress={() => {openDrawer()}}><Text>Open</Text></Button>
             <Text>About Screen</Text>
         </View>
     </SafeAreaView>

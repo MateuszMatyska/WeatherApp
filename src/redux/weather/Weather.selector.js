@@ -1,3 +1,3 @@
-export const loading = state => state.weatherReducer.loading;
-export const error = state => state.weatherReducer.error;
-export const weathers = state => state.weatherReducer.weathers;
+export const loadingSelector = state => state.weatherReducer.loading;
+export const errorSelector = state => state.weatherReducer.error;
+export const weathersSelector = state => state.weatherReducer.weathers;

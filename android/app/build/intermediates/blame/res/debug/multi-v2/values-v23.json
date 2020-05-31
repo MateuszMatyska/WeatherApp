@@ -1,21 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "/home/mateuszm/Projects/WeatherApp/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v23/values-v23.xml",
+            "outputFile": "/Users/mateuszmatyska/MyProjects/WeatherApp/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v23/values-v23.xml",
             "map": [
                 {
-                    "source": "/home/mateuszm/.gradle/caches/transforms-2/files-2.1/da655c87255e64a28dd6cfec95a10bd5/res/values-v23/values-v23.xml",
-                    "from": {
-                        "startLines": "2,3,4,5,6,20,34,35,36,37,41,42,43,44",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "55,190,325,400,487,1371,2267,2386,2513,2618,2842,2957,3064,3177",
-                        "endLines": "2,3,4,5,19,33,34,35,36,40,41,42,43,47",
-                        "endColumns": "134,134,74,86,12,12,118,126,104,12,114,106,112,12",
-                        "endOffsets": "185,320,395,482,1366,2262,2381,2508,2613,2837,2952,3059,3172,3402"
-                    }
-                },
-                {
-                    "source": "/home/mateuszm/.gradle/caches/transforms-2/files-2.1/bd2074139c4cc067d7a9c86e5d8bea40/res/values-v23/values-v23.xml",
+                    "source": "/Users/mateuszmatyska/.gradle/caches/transforms-2/files-2.1/c1fe13f4f9a78985227ca59d603eaa58/res/values-v23/values-v23.xml",
                     "from": {
                         "startLines": "2,6",
                         "startColumns": "4,4",
@@ -34,7 +23,18 @@
                     }
                 },
                 {
-                    "source": "/home/mateuszm/.gradle/caches/transforms-2/files-2.1/7f49e130a4f25e8c64df73dfc61d8431/res/values-v23/values-v23.xml",
+                    "source": "/Users/mateuszmatyska/.gradle/caches/transforms-2/files-2.1/55559b663c4895d19a11afda9e2db804/res/values-v23/values-v23.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,20,34,35,36,37,41,42,43,44",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,190,325,400,487,1371,2267,2386,2513,2618,2842,2957,3064,3177",
+                        "endLines": "2,3,4,5,19,33,34,35,36,40,41,42,43,47",
+                        "endColumns": "134,134,74,86,12,12,118,126,104,12,114,106,112,12",
+                        "endOffsets": "185,320,395,482,1366,2262,2381,2508,2613,2837,2952,3059,3172,3402"
+                    }
+                },
+                {
+                    "source": "/Users/mateuszmatyska/.gradle/caches/transforms-2/files-2.1/a2747fd1e80f7c6d24b21b52e04d59b1/res/values-v23/values-v23.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",

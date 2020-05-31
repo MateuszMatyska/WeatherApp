@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "/home/mateuszm/Projects/WeatherApp/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v28/values-v28.xml",
+            "outputFile": "/Users/mateuszmatyska/MyProjects/WeatherApp/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v28/values-v28.xml",
             "map": [
                 {
-                    "source": "/home/mateuszm/.gradle/caches/transforms-2/files-2.1/da655c87255e64a28dd6cfec95a10bd5/res/values-v28/values-v28.xml",
+                    "source": "/Users/mateuszmatyska/.gradle/caches/transforms-2/files-2.1/55559b663c4895d19a11afda9e2db804/res/values-v28/values-v28.xml",
                     "from": {
                         "startLines": "2,3,4,8",
                         "startColumns": "4,4,4,4",
@@ -23,7 +23,7 @@
                     }
                 },
                 {
-                    "source": "/home/mateuszm/.gradle/caches/transforms-2/files-2.1/bd2074139c4cc067d7a9c86e5d8bea40/res/values-v28/values-v28.xml",
+                    "source": "/Users/mateuszmatyska/.gradle/caches/transforms-2/files-2.1/c1fe13f4f9a78985227ca59d603eaa58/res/values-v28/values-v28.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9",
                         "startColumns": "4,4,4,4,4,4,4,4",

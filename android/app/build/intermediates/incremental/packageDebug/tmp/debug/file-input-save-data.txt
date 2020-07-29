@@ -1,5 +1,5 @@
 #Internal package file, do not edit.
-#Sun May 31 19:02:17 CEST 2020
+#Mon Jun 22 18:01:28 CEST 2020
 56.path=lib/arm64-v8a/libfolly_json.so
 5.base=/Users/mateuszmatyska/MyProjects/WeatherApp/android/app/build/intermediates/transforms/mergeJniLibs/debug/0
 42.base=/Users/mateuszmatyska/MyProjects/WeatherApp/android/app/build/intermediates/transforms/mergeJniLibs/debug/0

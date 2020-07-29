@@ -1,7 +1,7 @@
 import React from "react";
 import { Icon } from "native-base";
 import { createBottomTabNavigator } from "@react-navigation/bottom-tabs";
-import Weather from "src/screens/weather/Weather";
+import Weathers from "src/screens/weathers/Weathers";
 import Favourites from "src/screens/favourites/Favourites";
 import {colors} from 'src/const/colors'
 
@@ -16,8 +16,8 @@ const Tabs = () => {
       }}
     >
       <Tab.Screen
-        name="Weather"
-        component={Weather}
+        name="Weathers"
+        component={Weathers}
         options={{
           tabBarLabel: "Weather",
           tabBarIcon: ({ color }) => (

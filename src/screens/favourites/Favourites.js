@@ -1,13 +1,37 @@
-import React from 'react';
-import {SafeAreaView} from 'react-native';
-import {View,Text} from 'native-base';
+import React, { useState } from "react";
+import { SafeAreaView, Text } from "react-native";
+import { View, Button, Icon } from "native-base";
+import ModalComponent from "../../components/modal/ModalCompnent";
 
 const Favourites = (props) => {
-    return <SafeAreaView>
-        <View>
-            <Text>Favourites Screen</Text>
-        </View>
+  const [isVisible, setIsVisible] = useState(false);
+
+  return (
+    <SafeAreaView>
+      <View>
+        <Text>Favourites Screen</Text>
+        <Text>{isVisible ? "true" : "false"}</Text>
+      </View>
+      <View>
+        <Button
+          rounded
+          large
+          onPress={() => {
+            setIsVisible(true);
+          }}
+        >
+          <Text>Show Modal!</Text>
+        </Button>
+        <ModalComponent
+          title="Alert Info"
+          isVisible={isVisible}
+          onClose={() => {
+            setIsVisible(false);
+          }}
+        />
+      </View>
     </SafeAreaView>
-}
+  );
+};
 
 export default Favourites;

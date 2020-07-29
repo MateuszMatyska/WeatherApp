@@ -43,7 +43,16 @@
     "redux-devtools": "^3.5.0"
   },
   "jest": {
+    "setupFiles": [
+      "./mocks.js"
+    ],
     "preset": "react-native",
-    "setupFilesAfterEnv": ["@testing-library/jest-native/extend-expect"]
+    "setupFilesAfterEnv": [
+      "@testing-library/jest-native/extend-expect",
+      "./node_modules/react-native-gesture-handler/jestSetup.js"
+    ],
+    "transformIgnorePatterns": [
+      "node_modules/(?!(react-native|react-native-button|native-base-.*|react-native-.*|@react-native-community|@react-navigation)/)"
+    ]
   }
 }
